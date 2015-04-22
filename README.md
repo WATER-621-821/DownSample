@@ -9,7 +9,7 @@ But, parameters can be changed inside the class itslef to suit your needs.
 
 Implementation Method
 
-1) Smooths the image usig Gaussian smoothing filter.
+1) Smooths the image using Gaussian smoothing filter.
 
 2) DownSamples the image by using Rescale Filter and Shrink Filter.
 
